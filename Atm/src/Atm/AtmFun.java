@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class AtmFun  {
 	
 	public AtmFun() {
-		int attempt =3;
+		int attempt =4;
 		while (attempt != 0) {
 			
 			int i50 =0;
